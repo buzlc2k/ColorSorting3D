@@ -13,18 +13,18 @@ MonoBehaviour:
   m_Name: ContainerConfig
   m_EditorClassIdentifier: 
   records:
-  - rid: 1562505366852337810
-  - rid: 1562505366852337809
+  - rid: 7986452643212689627
+  - rid: 7986452643212689628
   references:
     version: 2
     RefIds:
-    - rid: 1562505366852337809
-      type: {class: ContainerConfigRecord, ns: ColorSorting3D.Config, asm: Assembly-CSharp}
-      data:
-        Available: 1
-        Material: {fileID: 2100000, guid: f2d7f5a0dfa2d304aa966b19516d8ac8, type: 2}
-    - rid: 1562505366852337810
-      type: {class: ContainerConfigRecord, ns: ColorSorting3D.Config, asm: Assembly-CSharp}
+    - rid: 7986452643212689627
+      type: {class: ContainerConfigRecord, ns: ColorSorting3D.Config, asm: LevelConfig}
       data:
         Available: 0
         Material: {fileID: 2100000, guid: f69870a5056d8ee4fa64e852ad9f83c2, type: 2}
+    - rid: 7986452643212689628
+      type: {class: ContainerConfigRecord, ns: ColorSorting3D.Config, asm: LevelConfig}
+      data:
+        Available: 1
+        Material: {fileID: 2100000, guid: f2d7f5a0dfa2d304aa966b19516d8ac8, type: 2}

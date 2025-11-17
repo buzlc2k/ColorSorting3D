@@ -1,5 +1,3 @@
-#if UNITY_EDITOR
-
 using UnityEngine;
 
 namespace ServiceButcator {
@@ -18,5 +16,3 @@ namespace ServiceButcator {
         }
     }
 }
-
-#endif

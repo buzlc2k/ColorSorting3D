@@ -13,94 +13,94 @@ MonoBehaviour:
   m_Name: LevelConfig
   m_EditorClassIdentifier: 
   records:
-  - rid: 1562505163085185099
-  - rid: 1562505008777265215
-  - rid: 1562505372460646485
+  - rid: 7986452643212689641
+  - rid: 7986452644075143397
+  - rid: 7986452644075143388
   references:
     version: 2
     RefIds:
-    - rid: 1562505008777265215
-      type: {class: LevelConfigRecord, ns: ColorSorting3D.Config, asm: Assembly-CSharp}
-      data:
-        Index: 2
-        Containers:
-        - Position: {x: -0.3, y: 0, z: -0.5}
-          Size: 4
-          Available: 1
-          Rings: 
-        - Position: {x: 0.29999998, y: 0, z: -0.5}
-          Size: 4
-          Available: 1
-          Rings: 
-        - Position: {x: -0.6, y: 0, z: 0.5}
-          Size: 4
-          Available: 1
-          Rings: 03000000060000000100000003000000
-        - Position: {x: -0.000000014901161, y: 0, z: 0.5}
-          Size: 4
-          Available: 1
-          Rings: 03000000010000000300000001000000
-        - Position: {x: 0.5999999, y: 0, z: 0.5}
-          Size: 4
-          Available: 1
-          Rings: 06000000060000000600000001000000
-        TargetContainerFinished: 3
-        CameraPos: {x: 0, y: 3.5, z: -3.5}
-    - rid: 1562505163085185099
-      type: {class: LevelConfigRecord, ns: ColorSorting3D.Config, asm: Assembly-CSharp}
+    - rid: 7986452643212689641
+      type: {class: LevelConfigRecord, ns: ColorSorting3D.Config, asm: LevelConfig}
       data:
         Index: 1
         Containers:
-        - Position: {x: -0.000000014901161, y: 0, z: -0.5}
-          Size: 4
+        - Position: {x: 0, y: 0, z: -0.5}
+          Size: 3
           Available: 1
           Rings: 
         - Position: {x: -0.3, y: 0, z: 0.5}
           Size: 4
           Available: 1
-          Rings: 01000000010000000100000004000000
+          Rings: 01000000010000000100000002000000
         - Position: {x: 0.29999998, y: 0, z: 0.5}
           Size: 4
           Available: 1
-          Rings: 04000000040000000400000001000000
+          Rings: 02000000020000000200000001000000
         TargetContainerFinished: 2
-        CameraPos: {x: 0, y: 3.5, z: -3.5}
-    - rid: 1562505372460646485
-      type: {class: LevelConfigRecord, ns: ColorSorting3D.Config, asm: Assembly-CSharp}
+        CameraPos: {x: 0, y: 3.49, z: -3.49}
+    - rid: 7986452644075143388
+      type: {class: LevelConfigRecord, ns: ColorSorting3D.Config, asm: LevelConfig}
       data:
         Index: 3
         Containers:
-        - Position: {x: -0.000000014901161, y: 0, z: -1.5}
+        - Position: {x: 0, y: 0, z: -1}
           Size: 3
           Available: 0
           Rings: 
-        - Position: {x: -0.6, y: 0, z: -0.5}
+        - Position: {x: -0.6, y: 0, z: 0}
           Size: 4
           Available: 1
-          Rings: 03000000050000000300000001000000
-        - Position: {x: -0.000000014901161, y: 0, z: -0.5}
-          Size: 4
-          Available: 1
-          Rings: 
-        - Position: {x: 0.5999999, y: 0, z: -0.5}
-          Size: 4
+          Rings: 03000000020000000600000002000000
+        - Position: {x: 0, y: 0, z: 0}
+          Size: 3
           Available: 1
           Rings: 
-        - Position: {x: -0.9, y: 0, z: 0.5}
+        - Position: {x: 0.6, y: 0, z: 0}
+          Size: 3
+          Available: 1
+          Rings: 
+        - Position: {x: -0.9, y: 0, z: 0.9999999}
           Size: 4
           Available: 1
-          Rings: 02000000050000000400000004000000
-        - Position: {x: -0.3, y: 0, z: 0.5}
+          Rings: 01000000020000000200000003000000
+        - Position: {x: -0.3, y: 0, z: 0.9999999}
           Size: 4
           Available: 1
-          Rings: 04000000030000000100000005000000
-        - Position: {x: 0.29999998, y: 0, z: 0.5}
+          Rings: 04000000010000000600000004000000
+        - Position: {x: 0.29999998, y: 0, z: 0.9999999}
           Size: 4
           Available: 1
-          Rings: 01000000020000000400000002000000
-        - Position: {x: 0.9, y: 0, z: 0.5}
+          Rings: 04000000010000000400000003000000
+        - Position: {x: 0.9, y: 0, z: 0.9999999}
           Size: 4
           Available: 1
-          Rings: 03000000010000000500000002000000
+          Rings: 06000000060000000300000001000000
         TargetContainerFinished: 5
-        CameraPos: {x: 0, y: 5.0402665, z: -5.0402665}
+        CameraPos: {x: 0, y: 4.6022215, z: -4.6022215}
+    - rid: 7986452644075143397
+      type: {class: LevelConfigRecord, ns: ColorSorting3D.Config, asm: LevelConfig}
+      data:
+        Index: 2
+        Containers:
+        - Position: {x: -0.3, y: 0, z: -1}
+          Size: 4
+          Available: 1
+          Rings: 
+        - Position: {x: 0.29999998, y: 0, z: -1}
+          Size: 4
+          Available: 1
+          Rings: 
+        - Position: {x: 0, y: 0, z: 0}
+          Size: 4
+          Available: 1
+          Rings: 01000000010000000600000004000000
+        - Position: {x: -0.3, y: 0, z: 0.9999999}
+          Size: 4
+          Available: 1
+          Rings: 01000000040000000400000006000000
+        - Position: {x: 0.29999998, y: 0, z: 0.9999999}
+          Size: 4
+          Available: 1
+          Rings: 01000000040000000600000006000000
+        TargetContainerFinished: 3
+        CameraPos: {x: 0, y: 3.49, z: -3.49}

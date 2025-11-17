@@ -44,10 +44,6 @@ namespace ColorSorting3D.Config
     public class LevelConfig : ConfigTable<LevelConfigRecord>
     {
         protected override LevelConfigRecord CreateDefaultInstance()
-        {
-            throw new NotImplementedException();
-        }
-
-        
+            => new(0, null, 0, Vector3.zero);
     }
 }

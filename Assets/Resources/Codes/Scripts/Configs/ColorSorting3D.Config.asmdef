@@ -1,0 +1,16 @@
+{
+    "name": "LevelConfig",
+    "rootNamespace": "ColorSorting3D.Config",
+    "references": [
+        "GUID:e0258f7ec8062e745892b4734972d5a1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

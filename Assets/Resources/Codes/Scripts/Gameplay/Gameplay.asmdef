@@ -1,0 +1,23 @@
+{
+    "name": "Gameplay",
+    "rootNamespace": "ColorSorting3D.Gameplay",
+    "references": [
+        "GUID:aa80b728def9d7642b882081df1229f6",
+        "GUID:0de763a976b01b24f8291025b9eb646c",
+        "GUID:fb7904e5030b5f743ad6ae020bc093ef",
+        "GUID:e0258f7ec8062e745892b4734972d5a1",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:77221876cc6b8244180b96e320b1bcd4",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:3c176dfcd7ebdd440ab99272f2976d11"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

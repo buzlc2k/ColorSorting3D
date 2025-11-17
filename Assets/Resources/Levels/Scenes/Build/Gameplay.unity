@@ -11275,10 +11275,10 @@ MonoBehaviour:
   ringsDispatcher: {fileID: 2072143010}
   resourcesManager: {fileID: 763351702}
   screenManager: {fileID: 1752150218}
-  ringConfig: {fileID: 11400000, guid: 21401621ac8dc32478a2bff79870704d, type: 2}
-  containerConfig: {fileID: 11400000, guid: b092008671715ce46b513473401dd44b, type: 2}
-  levelConfig: {fileID: 11400000, guid: c8ac43a9d210aee41b9f193387191381, type: 2}
-  transitionConfig: {fileID: 11400000, guid: 8865fb8b844216e4c8e3ccb90c489f1b, type: 2}
+  ringConfig: {fileID: 11400000, guid: c10f6f7d5a4bdea4d82deb8f4d7bfa33, type: 2}
+  containerConfig: {fileID: 11400000, guid: 0fc72d0cb5314024d925a089a0dc9d4b, type: 2}
+  levelConfig: {fileID: 11400000, guid: 02002a78735914d4eadb2dc79f9c9530, type: 2}
+  transitionConfig: {fileID: 11400000, guid: 9549a6f0b480d404b826f89626664986, type: 2}
 --- !u!4 &1583427755
 Transform:
   m_ObjectHideFlags: 0
@@ -11329,7 +11329,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.63500005, y: 0}
   m_AnchorMax: {x: 1, y: 0.37742066}
-  m_AnchoredPosition: {x: -0.25099945, y: -0.05101013}
+  m_AnchoredPosition: {x: -0.25100708, y: -0.05101013}
   m_SizeDelta: {x: 1.5029984, y: 0.50299835}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1590104856
@@ -13080,7 +13080,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4800b3bc565b5a1408152762cba389fe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fileName: GayExe.bin
+  fileName: colorsorting3d.bin
   dontDestroyOnLoad: 0
 --- !u!1 &1907126211
 GameObject:

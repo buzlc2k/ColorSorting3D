@@ -175,4 +175,4 @@ namespace ColorSorting3D.LevelEditor
         private void UnZoomSelectedRing()
             => selectedRing.transform.localScale /= 1.1f;
     }
-}
+}    

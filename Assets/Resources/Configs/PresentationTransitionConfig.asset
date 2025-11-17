@@ -13,21 +13,21 @@ MonoBehaviour:
   m_Name: PresentationTransitionConfig
   m_EditorClassIdentifier: 
   records:
-  - rid: 7986452335401107555
-  - rid: 7986452335401107556
-  - rid: 7986452335401107557
-  - rid: 7986452335401107564
-  - rid: 7986452358405029987
-  - rid: 7986452359270629493
-  - rid: 7986452381296492638
-  - rid: 7986452381296492639
-  - rid: 7986452381296492649
-  - rid: 7986452381296492658
+  - rid: 7986452643212689617
+  - rid: 7986452643212689618
+  - rid: 7986452643212689619
+  - rid: 7986452643212689620
+  - rid: 7986452643212689621
+  - rid: 7986452643212689622
+  - rid: 7986452643212689623
+  - rid: 7986452643212689624
+  - rid: 7986452643212689625
+  - rid: 7986452643212689626
   references:
     version: 2
     RefIds:
-    - rid: 7986452335401107555
-      type: {class: PresentationTransitionRecord, ns: ColorSorting3D.Config, asm: Assembly-CSharp}
+    - rid: 7986452643212689617
+      type: {class: PresentationTransitionRecord, ns: ColorSorting3D.Config, asm: LevelConfig}
       data:
         ID: 1
         TransitionSequence:
@@ -35,8 +35,8 @@ MonoBehaviour:
           Enable: 1
           Duration: 0
           Animation: 
-    - rid: 7986452335401107556
-      type: {class: PresentationTransitionRecord, ns: ColorSorting3D.Config, asm: Assembly-CSharp}
+    - rid: 7986452643212689618
+      type: {class: PresentationTransitionRecord, ns: ColorSorting3D.Config, asm: LevelConfig}
       data:
         ID: 2
         TransitionSequence:
@@ -48,8 +48,8 @@ MonoBehaviour:
           Enable: 1
           Duration: 0
           Animation: 
-    - rid: 7986452335401107557
-      type: {class: PresentationTransitionRecord, ns: ColorSorting3D.Config, asm: Assembly-CSharp}
+    - rid: 7986452643212689619
+      type: {class: PresentationTransitionRecord, ns: ColorSorting3D.Config, asm: LevelConfig}
       data:
         ID: 3
         TransitionSequence:
@@ -61,8 +61,8 @@ MonoBehaviour:
           Enable: 1
           Duration: 0
           Animation: 
-    - rid: 7986452335401107564
-      type: {class: PresentationTransitionRecord, ns: ColorSorting3D.Config, asm: Assembly-CSharp}
+    - rid: 7986452643212689620
+      type: {class: PresentationTransitionRecord, ns: ColorSorting3D.Config, asm: LevelConfig}
       data:
         ID: 4
         TransitionSequence:
@@ -70,8 +70,8 @@ MonoBehaviour:
           Enable: 1
           Duration: 0
           Animation: 
-    - rid: 7986452358405029987
-      type: {class: PresentationTransitionRecord, ns: ColorSorting3D.Config, asm: Assembly-CSharp}
+    - rid: 7986452643212689621
+      type: {class: PresentationTransitionRecord, ns: ColorSorting3D.Config, asm: LevelConfig}
       data:
         ID: 5
         TransitionSequence:
@@ -79,8 +79,8 @@ MonoBehaviour:
           Enable: 0
           Duration: 334
           Animation: Out
-    - rid: 7986452359270629493
-      type: {class: PresentationTransitionRecord, ns: ColorSorting3D.Config, asm: Assembly-CSharp}
+    - rid: 7986452643212689622
+      type: {class: PresentationTransitionRecord, ns: ColorSorting3D.Config, asm: LevelConfig}
       data:
         ID: 6
         TransitionSequence:
@@ -96,8 +96,8 @@ MonoBehaviour:
           Enable: 1
           Duration: 0
           Animation: 
-    - rid: 7986452381296492638
-      type: {class: PresentationTransitionRecord, ns: ColorSorting3D.Config, asm: Assembly-CSharp}
+    - rid: 7986452643212689623
+      type: {class: PresentationTransitionRecord, ns: ColorSorting3D.Config, asm: LevelConfig}
       data:
         ID: 7
         TransitionSequence:
@@ -105,8 +105,8 @@ MonoBehaviour:
           Enable: 1
           Duration: 0
           Animation: 
-    - rid: 7986452381296492639
-      type: {class: PresentationTransitionRecord, ns: ColorSorting3D.Config, asm: Assembly-CSharp}
+    - rid: 7986452643212689624
+      type: {class: PresentationTransitionRecord, ns: ColorSorting3D.Config, asm: LevelConfig}
       data:
         ID: 8
         TransitionSequence:
@@ -114,8 +114,8 @@ MonoBehaviour:
           Enable: 0
           Duration: 334
           Animation: Off
-    - rid: 7986452381296492649
-      type: {class: PresentationTransitionRecord, ns: ColorSorting3D.Config, asm: Assembly-CSharp}
+    - rid: 7986452643212689625
+      type: {class: PresentationTransitionRecord, ns: ColorSorting3D.Config, asm: LevelConfig}
       data:
         ID: 9
         TransitionSequence:
@@ -127,8 +127,8 @@ MonoBehaviour:
           Enable: 1
           Duration: 0
           Animation: 
-    - rid: 7986452381296492658
-      type: {class: PresentationTransitionRecord, ns: ColorSorting3D.Config, asm: Assembly-CSharp}
+    - rid: 7986452643212689626
+      type: {class: PresentationTransitionRecord, ns: ColorSorting3D.Config, asm: LevelConfig}
       data:
         ID: 10
         TransitionSequence:

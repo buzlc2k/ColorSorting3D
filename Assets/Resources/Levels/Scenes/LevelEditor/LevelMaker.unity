@@ -2919,13 +2919,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cameraController: {fileID: 1123297332}
-  ringConfig: {fileID: 11400000, guid: 21401621ac8dc32478a2bff79870704d, type: 2}
+  ringConfig: {fileID: 11400000, guid: c10f6f7d5a4bdea4d82deb8f4d7bfa33, type: 2}
   inputManager: {fileID: 238529548}
   gridManager: {fileID: 1282345289}
   editorManager: {fileID: 1976963213}
   eventManager: {fileID: 1168825904}
-  levelConfig: {fileID: 11400000, guid: c8ac43a9d210aee41b9f193387191381, type: 2}
-  containerConfig: {fileID: 11400000, guid: b092008671715ce46b513473401dd44b, type: 2}
+  levelConfig: {fileID: 11400000, guid: 02002a78735914d4eadb2dc79f9c9530, type: 2}
+  containerConfig: {fileID: 11400000, guid: 0fc72d0cb5314024d925a089a0dc9d4b, type: 2}
   containerManager: {fileID: 1198220489}
   ringManager: {fileID: 1129771867}
   uiServices: {fileID: 2057036525}
