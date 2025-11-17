@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68d15b19eeb145e4e86f9498d103e74b, type: 3}
+  m_Name: ContainerConfig
+  m_EditorClassIdentifier: 
+  records:
+  - rid: 1562505366852337810
+  - rid: 1562505366852337809
+  references:
+    version: 2
+    RefIds:
+    - rid: 1562505366852337809
+      type: {class: ContainerConfigRecord, ns: ColorSorting3D.Config, asm: Assembly-CSharp}
+      data:
+        Available: 1
+        Material: {fileID: 2100000, guid: f2d7f5a0dfa2d304aa966b19516d8ac8, type: 2}
+    - rid: 1562505366852337810
+      type: {class: ContainerConfigRecord, ns: ColorSorting3D.Config, asm: Assembly-CSharp}
+      data:
+        Available: 0
+        Material: {fileID: 2100000, guid: f69870a5056d8ee4fa64e852ad9f83c2, type: 2}

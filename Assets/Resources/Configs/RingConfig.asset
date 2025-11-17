@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: RingConfig
+  m_EditorClassIdentifier: Assembly-CSharp:ColorSorting3D.Config:RingConfig
+  records:
+  - rid: 1562505004054741053
+  - rid: 1562505004054741054
+  - rid: 1562505004054741055
+  - rid: 1562505004054741056
+  - rid: 1562505004054741057
+  - rid: 1562505004054741058
+  references:
+    version: 2
+    RefIds:
+    - rid: 1562505004054741053
+      type: {class: RingConfigRecord, ns: ColorSorting3D.Config, asm: Assembly-CSharp}
+      data:
+        ID: 1
+        Material: {fileID: 2100000, guid: d5b20aa4ae684354f9595f7a7c991f09, type: 2}
+    - rid: 1562505004054741054
+      type: {class: RingConfigRecord, ns: ColorSorting3D.Config, asm: Assembly-CSharp}
+      data:
+        ID: 2
+        Material: {fileID: 2100000, guid: 79fbd5b290bcacc49b3c77784de3c257, type: 2}
+    - rid: 1562505004054741055
+      type: {class: RingConfigRecord, ns: ColorSorting3D.Config, asm: Assembly-CSharp}
+      data:
+        ID: 3
+        Material: {fileID: 2100000, guid: 572145110ce0f40439e4b3d628f495df, type: 2}
+    - rid: 1562505004054741056
+      type: {class: RingConfigRecord, ns: ColorSorting3D.Config, asm: Assembly-CSharp}
+      data:
+        ID: 4
+        Material: {fileID: 2100000, guid: 5e337eca3de8bcf47bfedf1047a8f38c, type: 2}
+    - rid: 1562505004054741057
+      type: {class: RingConfigRecord, ns: ColorSorting3D.Config, asm: Assembly-CSharp}
+      data:
+        ID: 5
+        Material: {fileID: 2100000, guid: 593beee2fa1165443a738b110e566a58, type: 2}
+    - rid: 1562505004054741058
+      type: {class: RingConfigRecord, ns: ColorSorting3D.Config, asm: Assembly-CSharp}
+      data:
+        ID: 6
+        Material: {fileID: 2100000, guid: 5752615b2b90cf54d89cc6a242a8dc4f, type: 2}
